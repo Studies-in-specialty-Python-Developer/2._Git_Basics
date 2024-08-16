@@ -1,0 +1,13 @@
+.venv
+.venv/
+venv/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# PyCharm
+.idea/
+*.iml
+out/
